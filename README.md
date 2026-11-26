@@ -1,49 +1,61 @@
-# Ex.No.4-EXP 4 Generate the Prompt and evaluate that for following prompt patterns - Zero-shot Prompting.•	Few-shot Prompting - Chain of Thought -	Persona Pattern - Reverse Prompting - Graph Prompting - Active Prompting
-### DATE:                                                                            
-### REGISTER NUMBER : 
-### Aim: To write the prompt for the following prompt types and compare that with different AI tools and evaluate that using any one evaluation method (Ex. Rubrics). Zero-shot Prompting.•	Few-shot Prompting - Chain of Thought -	Persona Pattern - Reverse Prompting - Graph Prompting - Active Prompting 
+# Ex.No.4-EXP 4 Generate the Prompt and eveluate that for following prompt types - Comparative Analysis Prompt Experiential Perspective Prompt - Everyday Functioning Prompts - Universal Prompt Structures Prompt Refinements- Prompt Size Limitations.                                                                     
+**Objective:** Use generalized prompts applicable across industries.  
+**Prompt:**  
+*"List core components of any intelligent automation system for real-time operations."*  
 
-### Explanation - Any one use case from Unit 5 and write the prompt for that with the unit 2 Prompt types given above.
+**Expected Output:**  
+- IoT-enabled devices and sensors.  
+- Cloud/edge analytics engines.  
+- Control dashboards + mobile app.  
+- Alert/notification system.  
 
-Procedure:
-1.	Define the Scenario and Use Case:
-Scenario:
-The manufacturing industry is looking to reduce manual monitoring and increase efficiency through automation. The system will utilize IoT devices and embedded controllers to automate equipment, monitor performance, and enable predictive maintenance. The goal is to streamline the production process, minimize downtime, and enhance energy efficiency.
-Target Audience:
-Manufacturing companies, specifically in sectors like automotive, electronics, and food processing, where automation can significantly improve productivity.
+***
 
-Main Objectives:
+#### **5. Structured Prompt Refinements**  
+**Objective:** Break down responses for clarity.  
+**Prompt:**  
+*"Explain predictive maintenance in steps."*  
 
-•	Improve production efficiency by 30%.
-•	Minimize machinery downtime with predictive maintenance.
-•	Enable real-time monitoring and remote control of manufacturing systems.
-•	Reduce energy consumption by optimizing processes.
- 
-2.	Identify Prompt Patterns for Each Design Aspect:
-Idea Generation Prompts:
+**Refined Output:**  
+1. Sensors collect machine data (temperature, vibration, energy).  
+2. Data analyzed via ML models.  
+3. Early signs of wear/failure detected.  
+4. System alerts operator before breakdown.  
 
-Comparative Analysis Prompt
-Definition: Asking for a comparison between two or more concepts, often highlighting similarities and differences.
-•	"Compare and contrast deep learning and machine learning."
-•	"How do renewable and non-renewable energy sources differ?"
+***
 
-Experiential Perspective Prompt:
-> 	“As a software engineer, what are the benefits of using cloud computing in your projects?”
->  “From a student’s perspective, describe the challenges of online learning.”
+#### **6. Prompt Size Limitations**  
+**Objective:** Enforce concise outputs.  
+**Prompt:**  
+*"Describe predictive maintenance in under 40 words."*  
 
-Everyday Functioning Prompts:
-*	  “Describe the role of machine learning in everyday apps like YouTube or Netflix."
-*	 	“How is encryption used in daily life when sending WhatsApp messages?”
 
-Universal Prompt Structures:
-^ 	“Explain [concept] in simple terms with an example.”
-^  “Explain the process of [task] step by step.”
+### Prompt System Summary Table
 
-Prompt Size Limitations:
-&  	“Translate this 5000-word essay into Tamil.”
-→ Manageable chunks: “Translate the first 1000 words into Tamil, then continue.”
-&  “Give me 50 examples of AI applications.”
-→ Adjust for size: “Give me 10 AI applications at a time.”
+| **S.No** | **Prompt Type**            | **Objective**                                          | **Example Prompt**                                                                                      | **Expected Outcome**                                                        |
+|----------|----------------------------|--------------------------------------------------------|-------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------|
+| 1        | Idea Generation Prompt      | Generate feature ideas for system optimization         | “What features can be incorporated to optimize production and reduce downtime?”                        | Suggestions like real-time sensors, predictive alerts, energy optimization  |
+| 2        | Persona and Context Prompt  | Define UI/UX traits and system messaging tone          | “What should the user interface convey to operators and managers?”                                    | Intuitive, reliable, real-time info with simple usability                   |
+| 3        | Comparative Analysis Prompt | Compare solutions or strategies                         | “Compare predictive maintenance with preventive maintenance in cost, downtime, and efficiency.”       | Detailed pros and cons for maintenance strategies                           |
+| 4        | Universal Prompt            | Identify general system components applicable broadly  | “List core components of intelligent automation systems for real-time operation.”                      | Components such as IoT sensors, analytics engines, dashboards, alerts       |
+| 5        | Structured Prompt Refinement| Break down complex explanations into clear steps       | “Explain predictive maintenance in steps.”                                                           | Clear steps: data collection, analysis, early detection, alerting           |
+| 6        | Prompt Size Limitation      | Enforce brevity and clarity                             | “Describe predictive maintenance in under 40 words.”                                                  | Concise, jargon-free explanation                                           |
+| 7        | Reflective Prompting        | Clarify user queries before responding                  | “You want to know how predictive maintenance works, correct? Here’s a simple rundown...”               | Ensures clarity, reduces misunderstandings                                  |
+
+---
+
+***
+
+## **Result**  
+- Different **prompt patterns** (Comparative, Universal, Structured Refinement, Prompt Limits, along with Idea Generation & Persona Prompts) were successfully tested.  
+- The system provided **useful, accurate, and context-rich responses** for the manufacturing automation use case.  
+- **Thus, the prompts were executed successfully.**  
+
+***
+
+
+
+
 
 
 
